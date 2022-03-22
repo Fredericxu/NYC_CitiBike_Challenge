@@ -4,7 +4,7 @@ Use jupyter notebook and Tableau to visulize the data of 2019 August CitiBike.
 ## Results
 - Please see my Story in https://public.tableau.com/app/profile/tianyu.xu/viz/CitibikeChallenge_16479152293450/Story1
 - Checkout Time for Users
-- ![image](https://github.com/Fredericxu/NYC_CitiBike_Challenge/edit/main/1.png)
+![image](https://github.com/Fredericxu/NYC_CitiBike_Challenge/edit/main/1.png)
 - Checkout Times by Genders
 - ![image](https://github.com/Fredericxu/NYC_CitiBike_Challenge/edit/main/2.png)
 - Trips by Weekday Hour
